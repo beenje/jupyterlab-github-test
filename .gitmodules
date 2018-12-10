@@ -1,0 +1,3 @@
+[submodule "submodules/csentry"]
+	path = submodules/csentry
+	url = ../../ics-infrastructure/csentry.git
