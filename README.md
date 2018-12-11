@@ -10,3 +10,4 @@ Things to test:
 - symlinks
 - git submodules
 - images
+- notebooks
