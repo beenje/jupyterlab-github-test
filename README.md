@@ -9,3 +9,4 @@ Things to test:
 - directories with spaces
 - symlinks
 - git submodules
+- images
